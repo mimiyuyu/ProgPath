@@ -141,4 +141,20 @@ Please open new threads or address questions to yuanw@stu.scu.edu.cn or xiyue.wa
 
 ProgPath is made available under the CC BY-NC-SA 4.0 License and is available for non-commercial academic purposes.
 
+## Citation
+
+If you find our work useful in your research, please consider citing our paper:
+
+```
+@article{yuan2025pancancer,
+  title={Pancancer outcome prediction via a unified weakly supervised deep learning model},
+  author={Yuan, Wei and Chen, Yijiang and Zhu, Biyue and Yang, Sen and Zhang, Jiayu and Mao, Ning and Xiang, Jinxi and Li, Yuchen and Ji, Yuanfeng and Luo, Xiangde and others},
+  journal={Signal transduction and targeted therapy},
+  volume={10},
+  number={1},
+  pages={285},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+```
 
